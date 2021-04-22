@@ -15,4 +15,4 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on frontend development with Vue.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React and TypeScript.
