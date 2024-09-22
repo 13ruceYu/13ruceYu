@@ -10,9 +10,3 @@
     >
   </a>
 </p>
-
-
-### Hi there 👋
-
-- 🔭 I’m currently working on frontend development with Vue.
-- 🌱 I’m currently learning Vue3, TypeScript.
